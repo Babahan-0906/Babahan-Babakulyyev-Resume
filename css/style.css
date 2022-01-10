@@ -1,7 +1,7 @@
 html, body {
   margin:0;border:0;padding:0;
   font-size:16px;
-  font-family:'Proxima';
+/*   font-family:'Proxima'; */
   overflow-x:hidden;
   position: relative;
   vertical-align: baseline;
@@ -36,16 +36,16 @@ h2 {
 .tm-border {
   width: 240px;
   height: 240px;
-	border: 5px solid #fff;
-	box-shadow: 2px 2px #000;
+  border: 5px solid #fff;
+  box-shadow: 2px 2px #000;
 }
 
 .shadow {
-	text-shadow: 1px 1px #000;
+  text-shadow: 1px 1px #000;
 }
 
 .tm-title {
-	color: #66CCFF;
+  color: #66CCFF;
 }
 
 .white {
@@ -67,16 +67,6 @@ h2 {
 .skills, .awards,
 .contact, .experience, .extracurriculars {
   margin-top: 30px;
-}
-
-@font-face {
-  font-family: "ProximaNova-Regular";
-  src: url("//db.onlinewebfonts.com/t/0376a58122a881d16a294512d3c947b1.eot");
-}
-
-@font-face {
-  font-family: "Proxima Nova";
-  src: url("//db.onlinewebfonts.com/t/72b6f2c9990bd3d37b8013a59ed78902.eot");
 }
 
 /* header section */
