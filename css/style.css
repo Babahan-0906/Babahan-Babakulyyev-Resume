@@ -25,7 +25,6 @@ h2 {
 }
 
 .accent {
-  font-family: 'Proxima Bold';
   line-height: 14px;
   color: #60A9F0;
 }
@@ -71,13 +70,13 @@ h2 {
 }
 
 @font-face {
-    font-family: 'Proxima';
-    src: url(../fonts/ProximaNova-Regular.otf);
+  font-family: "ProximaNova-Regular";
+  src: url("//db.onlinewebfonts.com/t/0376a58122a881d16a294512d3c947b1.eot");
 }
 
 @font-face {
-    font-family: 'Proxima Bold';
-    src: url(../fonts/ProximaNova-Bold.otf);
+  font-family: "Proxima Nova";
+  src: url("//db.onlinewebfonts.com/t/72b6f2c9990bd3d37b8013a59ed78902.eot");
 }
 
 /* header section */
